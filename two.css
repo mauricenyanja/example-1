@@ -39,9 +39,17 @@
     font-family: 'Bitter', serif;
     height: 100%;
 }
+.list a:hover{
+    color:rgb(14, 85, 218);
+
+}
 .img{
     object-fit: cover;
 }
 h1{
+    text-align: center;
+}
+.mow{
+    font-size: 45px;
     text-align: center;
 }
