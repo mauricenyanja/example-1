@@ -48,6 +48,7 @@
 }
 .center{
     text-align: center;
+    font-size: 20px;
 }
 h1{
     text-decoration: underline;
@@ -76,4 +77,7 @@ h1{
     background-color:rgb(248, 109, 109);
     height: 400px;
     width: 1150px;
+  }
+  #title{
+      font-size: 20px;
   }
