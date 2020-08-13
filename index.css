@@ -62,3 +62,9 @@ h1{
     height: 350px;
     flex-direction: column;
 }
+.tools-cards {
+    display: flex; 
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
