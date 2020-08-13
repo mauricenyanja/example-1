@@ -1,6 +1,4 @@
-*{
-    background-color: #f0dceb;
-}
+
 .nav-header{
     font-size: 25px;
     font-weight: bold;
@@ -46,10 +44,15 @@
 .img{
     object-fit: cover;
 }
-h1{
-    text-align: center;
-}
+
 .mow{
     font-size: 45px;
     text-align: center;
+}
+.name{
+    background-image: url(https://cdn.pixabay.com/photo/2020/08/09/09/57/sunset-5475045__340.jpg);
+    display: flex;
+    justify-content: center;
+    height: 700px;
+    width: 100%;
 }
