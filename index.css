@@ -1,5 +1,5 @@
 *{
-    background-color: #a6ddf7;
+    background-color: #f0dceb;
 }
 .nav-header{
     font-size: 25px;
@@ -14,7 +14,7 @@
     height: 40px;
     height: 70px;
     box-shadow: 0 1px 22px 0 rgba(0, 0, 0, 0.5);
-    background-color: #a6ddf7;
+    background-color: #f0dceb;
 }
 .end-nav { 
     flex-basis: 30%;
@@ -42,7 +42,4 @@
 }
 .img{
     object-fit: cover;
-}
-h1{
-    text-align: center;
 }
