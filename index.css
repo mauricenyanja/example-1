@@ -1,6 +1,12 @@
 *{
     background-color: #a6ddf7;
 }
+.nav-header{
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(252, 1, 1);
+    font-family:serif;
+}
 .top-nav {
     display: flex;
     flex-direction: row;
@@ -14,6 +20,7 @@
     display: flex;
     flex-direction: row;
     margin: 0; 
+    float: right;
 }
 .list {
     list-style: none;
