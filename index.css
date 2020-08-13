@@ -86,3 +86,6 @@ h1{
     border-radius: 100%;
     padding-right: 50px;
   }
+  div li{
+      font-size: 20px;
+  }
