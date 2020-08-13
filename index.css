@@ -23,6 +23,7 @@
     float: right;
 }
 .list {
+    padding-left: 30px;
     list-style: none;
     display: flex;
     flex-direction: row;
@@ -30,6 +31,7 @@
     width: 100%;
 }
 .list a {
+    float: right;
     text-decoration: none;
     color: black;
     font-weight: bold;
