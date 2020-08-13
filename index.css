@@ -4,13 +4,13 @@
 .top-nav {
     display: flex;
     flex-direction: row;
-    height: 25px;
-    height: 62px;
+    height: 40px;
+    height: 70px;
     box-shadow: 0 1px 22px 0 rgba(0, 0, 0, 0.5);
-    background-color: #ffffff;
+    background-color: #a6ddf7;
 }
 .end-nav { 
-    flex-basis: 27%;
+    flex-basis: 30%;
     display: flex;
     flex-direction: row;
     margin: 0; 
