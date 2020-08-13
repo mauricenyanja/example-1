@@ -31,10 +31,12 @@
     width: 100%;
 }
 .list a {
-    float: right;
     text-decoration: none;
     color: black;
     font-weight: bold;
     font-family: 'Bitter', serif;
     height: 100%;
+}
+.img{
+    object-fit: cover;
 }
